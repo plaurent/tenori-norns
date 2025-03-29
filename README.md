@@ -1,6 +1,6 @@
 # tenori-norns
 
-`tenori-norns` lets you connect Tenori-ON to Norns via the `midigrid` project [[community page](https://norns.community/midigrid)] [[source](https://github.com/jaggednz/midigrid)].
+`tenori-norns` lets you connect Tenori-ON to Norns via the `midigrid` project [[community page](https://norns.community/midigrid)] [[source](https://github.com/jaggednz/midigrid)].  It requires a Tenori-ON running [pika.blue's firmware A042 or later](https://www.pika.blue/posts/tenori-on/releases/).
 
 * The Tenori-ON acts as a 16x16 grid with 256 available buttons.  
 * The Tenori-ON L1, L2, and L3 buttons are mapped to K1, K2 and K3 on the Norns.
