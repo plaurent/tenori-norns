@@ -19,9 +19,9 @@ The easiest way to proceed is:
 ### Usage Notes 
 
 If Norns is already on before you connect it to the Tenori-ON, plugging 
-it in may also result in LED signals from Norns+midigrid being misinterpreted as MIDI notes on the Tenori-ON.
+it in may result in LED signals from Norns+midigrid being misinterpreted as MIDI notes on the Tenori-ON.
 
-Also it is recommended that you disable the Tenori-ON screensaver mode to prevent the LED signals from the Norns+midigrid being misinterpreted as MIDI notes.
+Also it is recommended that you disable the Tenori-ON screensaver mode to prevent the LED signals from the Norns+midigrid being misinterpreted as MIDI notes when the screensaver activates.
 
 ## Installation
 
